@@ -37,3 +37,12 @@ body {
   }
 
 }
+
+/* estilos.css */
+
+.logo-img {
+  max-height: 140px; /* Ajusta este valor según el tamaño deseado */
+  height: auto;
+  width: auto;
+}
+
